@@ -52,6 +52,9 @@
     <None Update="assets\db.json.example">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="assets\logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="assets\xmb.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
