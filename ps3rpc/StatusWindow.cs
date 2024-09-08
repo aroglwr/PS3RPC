@@ -67,8 +67,8 @@ namespace ps3rpc
                 this.name = "On XMB";
                 this.publisher = "Idle";
                 this.type = "";
-                this.cover = "psn-icon";
-                this.thumb = "psn-icon";
+                this.cover = "";
+                this.thumb = "https://www.psdevwiki.com/vita/images/b/bc/PSN_logo_color_trans.png";
                 this.large_text = "XMB";
                 this.small_cover = "";
                 this.state = "Idle";
@@ -86,7 +86,7 @@ namespace ps3rpc
                 this.developer = gameData.developer;
                 this.type = gameData.type;
                 this.large_text = this.id;
-                this.small_cover = "psn";
+                this.small_cover = "https://gmedia.playstation.com/is/image/SIEPDC/ps-network-blue-bag-icon-01-01feb23?$100px--t$";
 
                 GameCover.ImageLocation = this.cover;
             }
