@@ -1,0 +1,12 @@
+{
+    "GAME-TITLE-ID": {
+    "name": "Game Title",
+    "region": "",
+    "type": "e.g. PSN, SEN, Homebrew",
+    "year": "",
+    "developer": "",
+    "publisher": "",
+    "cover": "Image URL or path - this one is shown in app",
+    "thumb": "Image URL or path - this one is shown on Discord"
+  }
+}
