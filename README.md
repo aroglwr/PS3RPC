@@ -1,5 +1,3 @@
-# PlayStation 3 Rich Presence
-
 <p align="center">
   <img src="ps3rpc/assets/logo.png" style="width:300px"/>
 </p>
